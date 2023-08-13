@@ -1,0 +1,5 @@
+C:\Repo\BookData\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Repo\BookData\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\BookData\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Repo\BookData\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Repo\BookData\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache

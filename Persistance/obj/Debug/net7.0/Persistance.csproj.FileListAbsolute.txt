@@ -1,0 +1,17 @@
+C:\Repo\BookData\Persistance\bin\Debug\net7.0\Persistance.deps.json
+C:\Repo\BookData\Persistance\bin\Debug\net7.0\Persistance.runtimeconfig.json
+C:\Repo\BookData\Persistance\bin\Debug\net7.0\Persistance.dll
+C:\Repo\BookData\Persistance\bin\Debug\net7.0\Persistance.pdb
+C:\Repo\BookData\Persistance\bin\Debug\net7.0\ServiceModel.dll
+C:\Repo\BookData\Persistance\bin\Debug\net7.0\ServiceModel.pdb
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.csproj.AssemblyReference.cache
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.AssemblyInfoInputs.cache
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.AssemblyInfo.cs
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.csproj.CopyComplete
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.dll
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\refint\Persistance.dll
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.pdb
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\Persistance.genruntimeconfig.cache
+C:\Repo\BookData\Persistance\obj\Debug\net7.0\ref\Persistance.dll
